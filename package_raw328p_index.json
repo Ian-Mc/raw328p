@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/",
           "archiveFileName": "raw328p.zip",
-          "checksum": "SHA-256:fd04aca6ed40922b13e59b8d8ecab995bb3f1bcec52c24f5e43076fda74ea2af",
+          "checksum": "MD5:b2b55923f083e3997ad1296a7b38c9fd",
           "size": "6520",
           "boards": [
             {"name": "RawAtmega328P"}
