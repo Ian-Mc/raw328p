@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "raw328p",
+      "maintainer": "Ian",
+      "websiteURL": "https://github.com/",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Raw AtMega328P",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "contibuted",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/",
+          "archiveFileName": "raw328p.zip",
+          "checksum": "SHA-256:2de992a578475c84476b03a39f0976fa732cb15413f393227d59beda156e5a30",
+          "size": "6520",
+          "boards": [
+            {"name": "RawAtmega328P"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino2"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
