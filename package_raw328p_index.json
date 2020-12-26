@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/Ian-Mc/raw328p/raw/master/raw328p.zip",
           "archiveFileName": "raw328p.zip",
-          "checksum": "MD5:b2b55923f083e3997ad1296a7b38c9fd",
+          "checksum": "MD5:b3bdbdd7e5b8129d6d6216f153b492a0",
           "size": "6520",
           "boards": [
             {"name": "RawAtmega328P"}
