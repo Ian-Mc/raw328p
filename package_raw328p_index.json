@@ -12,7 +12,7 @@
         {
           "name": "Raw AtMega328P",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.8.2",
           "category": "contibuted",
           "help": {
             "online": ""
